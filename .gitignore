@@ -1,0 +1,11 @@
+output
+target
+*.iml
+*.properties
+.idea
+auth.key
+dc.save
+stdin.txt
+files
+logs
+deploy/secvars.sh
